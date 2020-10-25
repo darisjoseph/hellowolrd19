@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Daris T.!!   </h1>
+<h1> Hello, Daris is becoming so confident.   </h1>
 <h2> Data Service Group is your learning partner </h2>
 <h2> Hope you are enyoying </h2>
 <h1> Good job Daris T. on learning Devops </h1>
